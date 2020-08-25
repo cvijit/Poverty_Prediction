@@ -1,2 +1,6 @@
 # Poverty_Prediction
 Predicting Poverty Levels with Business Strategy and Machine Learning Techniques
+
+
+
+The primary goal of millennium and sustainable development goals is to eradicate poverty at a global level. To alleviate poverty, business strategy is followed which is gained from literature reviews and surveys. The dataset is taken from Kaggle and it consists of 10,000 instances with 143 variables. Data preprocessing is done based on the business required and the implementation part is done by building machine learning models. The data preprocessing steps were implemented in the R programming language and the model implementation part was done in Python programming language. According to the project design, a machine learning model decision tree, an ensemble technique which is a random forest and a meta-algorithm called xgboost are used for prediction of the poverty levels in Costa Rican. The performance of all the three models was calculated and the accuracy obtained from random forest model was 85% which is higher than the other two models. The classification score of the decision tree was 77% and for xgboost it was 78%. Based on the result, a generalized random forest model was saved and loaded for future use. This generalized model was used to predict more than 20,000 instances.
